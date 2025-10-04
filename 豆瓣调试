@@ -9,7 +9,6 @@
 {"key":"aqy","name":"🍆爱奇艺","type":1,"api":"https://iqiyizyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"jy","name":"🥭金鹰","type":1,"api":"http://jyzyapi.com/provide/vod/from/jinyingyun/at/json","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"lz","name":"🫐量子","type":1,"api":"http://www.lzzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"wj","name":"🥽无尽","type":1,"api":https://api.wujinapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"yjx","name":"👕云解析","type":1,"api":"https://api.yparse.com/api/json","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"bd","name":"🎿百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"kc","name":"💪快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
