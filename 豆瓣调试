@@ -4,6 +4,14 @@
 "sites": [
 {"key":"18","name":"测试频道","type":0,"api":""},
 {"key":"uk","name":"🎀优酷","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"db ","name":"🫛豆瓣","type":1,"api":"https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/josn/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"tt","name":"🌽天堂采集","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"aqy","name":"🍆爱奇艺","type":1,"api":"https://iqiyizyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"jy","name":"🥭金鹰","type":1,"api":"http://jyzyapi.com/provide/vod/from/jinyingyun/at/json","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"lz","name":"🫐量子","type":1,"api":"http://www.lzzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"wj","name":"🥽无尽","type":1,"api":https://api.wujinapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"yjx","name":"👕云解析","type":1,"api":"https://api.yparse.com/api/json","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"bd","name":"🎿百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"kc","name":"💪快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 //
 
