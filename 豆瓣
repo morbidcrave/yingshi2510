@@ -14,11 +14,11 @@
 //
 
 {"key":"155","name":"👠155","type":1,"api":"https://155api.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"155","name":"👠HSCK","type":1,"api":"https://hsckzy888.com/api.php/provide/vod/from/hsckyun/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"155","name":"👠黑料zy","type":1,"api":"https://heiliaozyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"HSCK","name":"👠HSCK","type":1,"api":"https://hsckzy888.com/api.php/provide/vod/from/hsckyun/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"hlzy","name":"👠黑料zy","type":1,"api":"https://heiliaozyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"ck","name":"👠精品x","type":1,"api":"https://www.jingpinx.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Jp","name":"👠精品xx🈲","type":1,"api":"https://wwwjingpinx.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"155","name":"👠91精品","type":1,"api":"https://91jpzyw.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"91jp","name":"👠91精品","type":1,"api":"https://91jpzyw.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"md","name":"👠91md","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"91","name":"👠9118","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"sw","name":"👠siwa","type":1,"api":"https://www.siwazyw.tv/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":0},
